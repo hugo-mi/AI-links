@@ -1,7 +1,8 @@
 # General Notebooks
-| Titre | Description | Lien |
+| Titre | Description | Link |
 |-------|------|------|
 | Machine Learning Notebooks | Repo GIT contains notebooks for tasks (NLP/CV/GAN/Transformers) and applications (Deep Convolutionnal GAN, Text Classification using Transformer). | [link](https://github.com/dair-ai/ML-Notebooks) |
+| Machine Learning Notebooks | Repo GIT contains notebooks for tasks (NLP/CV/GAN/Transformers) and applications (Deep Convolutionnal GAN, Text Classification using Transformer). | [link](https://gwosc.org/s/events/GW150914/GW150914_tutorial.html) |
 
 # Py libs
 ## xAI
